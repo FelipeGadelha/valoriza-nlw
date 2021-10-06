@@ -4,15 +4,15 @@
 
 - Cadatro de Usuário
 
-  [ ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
+  [ x ] Não é permitido cadastrar mais de um usuário com o mesmo e-mail
 
-  [ ] Não é permitido cadastrar usuário sem e-mail
+  [ x ] Não é permitido cadastrar usuário sem e-mail
 
 - Cadastro de TAG
 
-  [ ] Não é permitido cadastrar mais de uma tag com o mesmo 
+  [ x ] Não é permitido cadastrar mais de uma tag com o mesmo 
   
-  [ ] Não é permitido o cadastro por usuário que não sejam administadortes
+  [ x ] Não é permitido o cadastro por usuário que não sejam administadortes
 
 - Cadastro de elogios
 
